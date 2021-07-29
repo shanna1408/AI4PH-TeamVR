@@ -1,0 +1,64 @@
+Export time: 2021/07/28 20:15:15 MDT
+Export duration: 117.108s
+
+Export settings:
+	Export Geometry: Models with Shape Fallback
+	Output Path: C:\Users\alhed\Documents\ai4ph\mzuzu\Assets\Models
+	Simplify Terrain Meshes: true
+	Terrain Layers: Export all selected terrain layers
+	applicationName: CityEngine
+	applicationString: CityEngine 2021.0.7316 0503R
+	applicationVendor: Esri R&D Center Zurich Inc.
+	applicationVersion: 2021.0.7316 05031228
+	atlasAddWrapBorder: true
+	author: alhedo
+	baseName: scene2
+	collectTextures: true
+	createTextureAtlases: false
+	encoderID: com.esri.prt.codecs.OBJEncoder
+	encoderName: Wavefront OBJ
+	errorFallback: true
+	existingFiles: OVERWRITE
+	facesWithHoles: TRIANGULATE_FACES_WITH_HOLES
+	fileGranularity: MEMORY_BUDGET
+	globalOffset: [ -610681.7844238281, -1279.649169921875, 8733072.40258789 ]
+	includeMaterials: true
+	localOffset: NONE
+	maxAtlasDim: 11
+	memoryBudget: 500
+	mergeNormals: true
+	mergeTexcoords: true
+	mergeVertices: true
+	meshGranularity: PER_MATERIAL
+	normalPrecision: 0.001
+	sceneFile: /mzuzu/scenes/scene2.cej
+	script: 
+	shapeNameDelimiter: _
+	texcoordPrecision: 1.0E-4
+	textureCoordinates: FIRST
+	triangulateMeshes: false
+	vertexNormals: PASS
+	vertexPrecision: 0.001
+	writeLog: true
+
+Initial shapes:
+	0 :   OK                'Terrain Imagery4'             OID '9701618f-1ecb-11b2-8925-00090ffe0001'
+
+
+
+Files created:
+	'scene2_0.obj':
+		Initial shapes:
+			0, 
+		GEOMETRY:
+			Total Meshes: 1
+			Total Polygons: 347672
+			  | Name                           | Material                  | Polygons 
+			==+================================+===========================+==========
+			1  'mesh_CityEngineTerrainMaterial' 'CityEngineTerrainMaterial'    347672 
+	'scene2.mtl':
+		MATERIAL:
+			Total Materials: 1
+			  | Name                      | Texture_0   
+			==+===========================+=============
+			1  'CityEngineTerrainMaterial' 'texture.jpg'
