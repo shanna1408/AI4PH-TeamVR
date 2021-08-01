@@ -1,5 +1,5 @@
-Export time: 2021/07/28 20:15:15 MDT
-Export duration: 117.108s
+Export time: 2021/07/30 17:13:10 MDT
+Export duration: 274.805s
 
 Export settings:
 	Export Geometry: Models with Shape Fallback
@@ -21,7 +21,7 @@ Export settings:
 	existingFiles: OVERWRITE
 	facesWithHoles: TRIANGULATE_FACES_WITH_HOLES
 	fileGranularity: MEMORY_BUDGET
-	globalOffset: [ -610681.7844238281, -1279.649169921875, 8733072.40258789 ]
+	globalOffset: [ -610691.1555175781, -1281.360595703125, 8733081.70727539 ]
 	includeMaterials: true
 	localOffset: NONE
 	maxAtlasDim: 11
@@ -42,7 +42,7 @@ Export settings:
 	writeLog: true
 
 Initial shapes:
-	0 :   OK                'Terrain Imagery4'             OID '9701618f-1ecb-11b2-8925-00090ffe0001'
+	0 :   OK                'Terrain Imagery8'             OID '9ee22140-1f54-11b2-b004-00090ffe0001'
 
 
 
@@ -52,10 +52,10 @@ Files created:
 			0, 
 		GEOMETRY:
 			Total Meshes: 1
-			Total Polygons: 347672
+			Total Polygons: 349168
 			  | Name                           | Material                  | Polygons 
 			==+================================+===========================+==========
-			1  'mesh_CityEngineTerrainMaterial' 'CityEngineTerrainMaterial'    347672 
+			1  'mesh_CityEngineTerrainMaterial' 'CityEngineTerrainMaterial'    349168 
 	'scene2.mtl':
 		MATERIAL:
 			Total Materials: 1
