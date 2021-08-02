@@ -1,0 +1,174 @@
+newmtl CityEngineMaterial_10
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_14x14m.jpg
+
+newmtl CityEngineMaterial_11
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_all_14x14m.jpg
+
+newmtl CityEngineMaterial_2
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd pavement_01_2x2m.jpg
+
+newmtl CityEngineMaterial
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd asphalt_14x14m.jpg
+
+newmtl CityEngineMaterial_4
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stripes_white_14x14m.jpg
+
+newmtl CityEngineMaterial_14
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd centerline_double_white_14m.jpg
+
+newmtl CityEngineMaterial_7
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd centerline_stripes_white_14m.jpg
+
+newmtl CityEngineMaterial_9
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_sides_14x14m.jpg
+
+newmtl CityEngineMaterial_6
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_word_14x14m.jpg
+
+newmtl CityEngineMaterial_12
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd lanes_4_stop_arrows_right_14x14m.jpg
+
+newmtl CityEngineShapeMaterial
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
+newmtl CityEngineMaterial_1
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd curbs_2m.jpg
+
+newmtl CityEngineMaterial_5
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd asphalt_painted_white_7x7m.jpg
+
+newmtl CityEngineMaterial_8
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd centerline_double_yellow_14m.jpg
+
+newmtl CityEngineMaterial_3
+illum 3
+Ka 0 0 0
+Kd 0.843137 0.843137 0.843137
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+map_Kd crosswalk_continental_white.jpg
+
+newmtl CityEngineMaterial_13
+illum 3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 0
+d 1
+Tf 1.0 1.0 1.0
+Ni 1.0
+
