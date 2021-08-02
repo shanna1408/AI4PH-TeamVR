@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/mzuzu_oculus.unity
+    guid: 57f4b994d22f20a4bad05a9440e7f972
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9fd0b2f12718feb4a87a0c2a1e3cc006, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: d948fdb1b5063bf40ae4945cabbdea2d, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 9c50057f387055944b9aeea1f0c13a60, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 11ed202ce84a7704e94b16e2735f1b60, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6fbdc65a0da63984bab2d64b8dd20585, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 602956d05ed22ae4da13dd03e0def91c, type: 2}
